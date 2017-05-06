@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android-MVP-Pattern</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_success">Login Success!</string>
+    <string name="login_failed">Incorrect username or password!</string>
+    <string name="loading">Loading...</string>
+
+</resources>
